@@ -27,6 +27,6 @@
     "registry": "https://registry.npmjs.org"
   },
    "dependencies": {
-    "@killmanforu01/exenv-master": "^1.0.0"
+    "@killmanforu01/knockout-master": "^1.0.2"
   }
 }
